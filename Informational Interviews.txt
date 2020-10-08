@@ -1,0 +1,106 @@
+Informational Interview - Alejandro Komai
+- Have you ever done an informational interview before?
+ - No
+- Their background (transition)
+ - Original goal was economics professor, but job prospects are not good and far away
+ - Got job as forecaster on corporate side from student, gauged if they would move towards data scientist but there were too many regulations
+ - 2 years in, there was a new shop opening up on aseets side with a data science branch
+ - Edison has 2 sides: assets and corporate
+ - Forecasters are subsets are data analyst, data analysis is more historical, forecasters look more at future
+ - Data analysts know descriptive statistics and inferential statistics but probably don't know random forest, regression analytics, machine learning
+- What projects they have worked on
+ - No, told them give him a month and he will teach himself to be a data scientist, and did a project for them
+- What do they like and don't like about data science
+ - Like: keep giving him problems that no one knows the answer to and he gets to try his best to answer them and can work with others of high integrity and his efforts make a difference
+ - Dislike: a little too visible, run into too many politics, norms are different in academia and corporate world, have to work on communication with executives
+- How they see things changing in the sector
+ - phrase "data science" is gonna fall out of favor, gonna be more specializations
+ - might separate between exploratory, machine learning, deep learning
+ - companies with no data scientists will be picking up people and starting from scratch, like healthcare, utilities, banks, Disney Plus
+ - more programs to make random forest easier and other things, but will make people wary because they can't communicate the concept
+- What they didn't know about data science when they first started that they don't know now
+ - Python instead of R
+- What skills are people looking for
+ - math fundamentals, set theory, statistics, algebra, calculus, probability
+ - intermediate Statistics
+ - fundamental tests, z-tests, t-tests, chi-squared tests
+ - being able to explain fundamental maths to people
+ - SAS is very important for healthcare
+ - SQL is very important 
+ - Python has edge over R, if there's time to invest in both do both
+- What traits are people looking for
+ - data scientist can be less technical but good at communication and perform better
+ - understand how to build a visual, many use ggplot2 for R, plotly in Python, Tableau
+ - not the thing most data scientists are missing, but since most of them are coming out of academia they don't teach that
+ - can beat someone with a Ph.D. if communication is better
+- How is the transition from data analyst to data scientist
+ - with Ph.D. or incubator, common to go straight into data science, otherwise analytics first
+- What publications or professionals do you follow to stay up-to-date with the industry?
+ - Hadley Wickham on Twitter
+ - Andrej chief data scientist for Tesla on Youtube
+ 
+Informational Interview - Jimmy Nguyen
+- Have you ever done an informational interview before?
+ - Yes
+- Their background (transition)
+ - Hired as analyst, had background in finance and math
+ - lots of failed interviews
+ - stigmas attached to different jobs, HR meant not good with numbers but good with people
+ - was taking Master's in Statistics
+- What projects they have worked on
+ - promotion velocity, nothing complex mathematically, bread-and-butter analysis
+- How they see things changing in the sector
+ - more top-level, not end-to-end, Python coding and SQL
+- What skills are people looking for
+ - 3 tracks: insights and analytics - master-level stats, machine learning, coding, different languages of SQL, R or Python, product sense (one broad question that you talk about for an hour in an interview), everything else can be taught except for product sense
+- What traits are people looking for
+ - being convincing, communicative
+ - being able to tal to non-technical people
+ - persistence
+ - business sense
+ - people analytics good for my Psych major
+- Successful path to data scientist from school:
+ - Get analyst job, keep teaching themselves data science, gather career capital
+- Additional notes
+ - most important thing to learn is perseverance, focus
+
+Informational Interview - Patrick Chen
+- Have you ever done an informational interview before?
+ - Yes, used to do them
+- Their background (transition)
+ - Started off as analyst, moved on to manager, now associate director
+- What projects they have worked on
+ - promotion velocity, nothing complex mathematically, bread-and-butter analysis
+- What do they like and don't like about data science
+ - Best career chosen
+- How they see things changing in the sector
+ - more top-level, not end-to-end, Python coding and SQL
+- What they didn't know about data science when they first started that they don't know now
+ - asked for higher salaries
+- What skills are people looking for
+ - domain knowledge (especially financing, healthcare)
+ - Statistics
+ - basic technical skills are very important
+ - need SQL, R/Python/SAS
+- What traits are people looking for
+ - being able to talk, not make them feel awkward
+ - knowing how to talk when you don't know the answer
+- How is the transition from data analyst to data scientist
+ - usually transition from analytics to scientist
+ - could get graduate degree in Statistics, more important than programming because most data scientists have programming
+- Successful path to data scientist from school:
+ - used to work at hospital during school
+- Ask for referrral later on when you get job offer
+- Additional notes
+ - primary point of resume is to get the click and make them want to know more
+ - Marketing data science is easiest to get into, not that strict on domain knowledge
+ - Find someone with my dream job in 2 years and reverse engineer their background in LinkedIn
+ - Usually people from bootcamps are good at technical skills but don't know practical applications
+ - Most also are very bad at visualizations (Tableau, Excel)
+ - Negotiation: Start with stretch goal, then go to target goal
+ - Only referral that matters: direct supervisor
+ - Hit him up after bootcamp, and Falco for Edison, big companies hire hundreds of analysts a year
+ - Analyst roles have high turnover rate, lots of better positions
+ - Being able to understand end-to-end process gets way higher salaries
+ - Focus on better job title than pay
+ - Don't be jack-of-all-trades, be more specialized
