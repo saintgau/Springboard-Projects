@@ -1,13 +1,8 @@
 Model Metrics File
 
-Final Model for tip amount:
-Random Forest Regression Model
+Final Model:
+Linear Regression Model
 Features used: all except tip percentage
-Hyperparameters: n_est(10), StandardScaler()
-R^2: 1.0
-
-Final Model for tip percentage:
-Random Forest Regression Model
-Features used: all except tip amount
-Hyperparameters: n_est(10), StandardScaler()
-R^2: 1.0
+Hyperparameters: StandardScaler()
+R^2: 0.34
+Mean absolute error: 0.70
